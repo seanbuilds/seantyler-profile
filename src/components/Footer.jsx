@@ -5,7 +5,7 @@ export default function Footer() {
     <footer id="connect" className="bg-slate-950 text-slate-400 py-16 w-full mt-12 border-t border-slate-900">
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex flex-col items-center gap-8 text-center">
         <h2 className="text-2xl md:text-3xl font-bold text-white mb-2">Let's optimize your HR infrastructure.</h2>
-        <a href="mailto:contact@seantyler.me" className="px-8 py-4 rounded-full bg-white text-slate-900 font-bold hover:bg-slate-200 transition-colors">
+        <a href="mailto:sean.tyler@me.com" className="px-8 py-4 rounded-full bg-white text-slate-900 font-bold hover:bg-slate-200 transition-colors">
           Email Me
         </a>
         
